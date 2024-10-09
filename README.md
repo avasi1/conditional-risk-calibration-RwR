@@ -40,7 +40,7 @@ pip install -r requirements.txt
 deactivate
 ```
 
-### Running the Code
+## Running the Code
 
 After setting up the environment and installing all dependencies, you can run collect the experimentation results by executing the following command:
 
