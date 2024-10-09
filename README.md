@@ -1,19 +1,19 @@
 Andrey Vasilyev, Yikai Wang, Guanting Chen, Xiaocheng Li. ``Calibrating Conditional Risk''.
 
-# Conditional Risk Environment Setup
+## Conditional Risk Environment Setup
 
-## Overview
+### Overview
 
 This project uses a Python environment named `risk_calibration_RwR_env`. Follow the steps below to set it up using a virtual environment and the `requirements.txt` file.
 
-## Prerequisites
+### Prerequisites
 
 Ensure you have Python (version 3.9 or higher) installed. Check your Python version:
 ```bash
 python --version
 ```
 
-## Setup Instructions
+### Setup Instructions
 
 1. **Create a Virtual Environment**
 ```bash
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 deactivate
 ```
 
-## Running the Code
+### Running the Code
 
 After setting up the environment and installing all dependencies, you can run collect the experimentation results by executing the following command:
 
