@@ -1,6 +1,6 @@
 Andrey Vasilyev, Yikai Wang, Guanting Chen, Xiaocheng Li. ``Calibrating Conditional Risk''.
 
-## Conditional Risk Environment Setup
+## Environment Setup
 
 ### Overview
 
