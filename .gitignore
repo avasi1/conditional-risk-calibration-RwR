@@ -1,0 +1,19 @@
+# Ignore virtual environment
+risk_calibration_RwR_env/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore any temporary or backup files
+*.bak
+*.swp

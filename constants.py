@@ -1,0 +1,8 @@
+DATA_SPLIT_RATIO = 4/9
+NUMBER_OF_FOLDS = 10
+SEED = 42
+
+ESTIMATED_ERROR_COL = 'Estimated error'
+PREDICTIONS_COL = 'Predictions'
+TARGET_COL = 'Target'
+TRUE_ERROR_COL = 'True error'
