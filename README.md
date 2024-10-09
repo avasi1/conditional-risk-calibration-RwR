@@ -49,3 +49,5 @@ python RwR_results_script.py
 ```
 
 Alternatively, you can run the notebook `RwR_result.ipynb`.
+
+The RwR losses produced by the considered algorithms are also compared to the benchmarks from https://github.com/avasi1/RwR/tree/adjusted-version (forked from [hanzhao-wang/RwR](https://github.com/hanzhao-wang/RwR) with minor adjustments)
